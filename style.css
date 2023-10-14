@@ -1,0 +1,8 @@
+.header-list {
+    display: flex;
+    flex-direction: row;
+}
+.title-liste {
+    display: flex;
+    flex-direction: row;
+}
